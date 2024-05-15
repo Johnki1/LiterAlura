@@ -1,4 +1,4 @@
-# Literalura - Aplicación de Consola para Consultar y Almacenar Libros
+# LiterAlura - Aplicación De Consola Para Consultar y Almacenar Libros
 
 ## Descripción
 
